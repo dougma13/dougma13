@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dougma13
 - 👀 I’m interested in cosmology and computacional physics.
-- 🌱 I’m currently learning python and data analysis (taking college class).
+- 🌱 I’m currently learning in depth about data analysis.
 - 💞️ I’m looking to collaborate on cientific research regarding data analysis of cosmological observations.
 
 <!---
