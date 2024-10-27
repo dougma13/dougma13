@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @douglas-sanini
+- 👋 Hi, I’m Dougals Sanini
 <!---
 - 👀 I’m interested in cosmology and computacional physics.
 - 🌱 I’m currently learning in depth about data analysis.
